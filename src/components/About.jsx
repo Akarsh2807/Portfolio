@@ -58,12 +58,12 @@ const About = () => {
         </div>
 
         <div className={styles.socialLinks}>
-          <a href="https://github.com/AkarshSrivastava" target="_blank" rel="noopener noreferrer" className={styles.socialCard}>
+          <a href="https://github.com/Akarsh2807" target="_blank" rel="noopener noreferrer" className={styles.socialCard}>
             <FaGithub size={24} />
             <span>GitHub</span>
             <ExternalLink size={14} className={styles.externalIcon} />
           </a>
-          <a href="https://linkedin.com/in/AkarshSrivastava" target="_blank" rel="noopener noreferrer" className={styles.socialCard}>
+          <a href="https://www.linkedin.com/in/akarsh-b13854298/" target="_blank" rel="noopener noreferrer" className={styles.socialCard}>
             <FaLinkedin size={24} />
             <span>LinkedIn</span>
             <ExternalLink size={14} className={styles.externalIcon} />

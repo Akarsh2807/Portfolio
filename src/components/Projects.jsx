@@ -10,7 +10,7 @@ const Projects = () => {
       period: "Aug 2025 – Sep 2025",
       description: "Built a comprehensive React-based web application for vehicle service bookings. Converted complex mobile UI designs to a fully responsive web interface while implementing advanced booking flows and slot management systems.",
       techStack: ["ReactJS", "CSS Modules", "Responsive Design", "UI/UX"],
-      githubUrl: "https://github.com/AkarshSrivastava",
+      githubUrl: "https://github.com/Akarsh2807",
       liveUrl: "#"
     },
     {
@@ -19,7 +19,7 @@ const Projects = () => {
       period: "Nov 2025 – Dec 2025",
       description: "Developed a secure Full-Stack MERN booking system for a hotel platform. Built robust API endpoints, implemented secure JWT authentication, and integrated MongoDB for data persistence alongside an email notification microservice.",
       techStack: ["MongoDB", "Express", "ReactJS", "NodeJS", "JWT"],
-      githubUrl: "https://github.com/AkarshSrivastava",
+      githubUrl: "https://github.com/Akarsh2807",
       liveUrl: "#"
     }
   ];
