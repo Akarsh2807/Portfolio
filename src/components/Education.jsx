@@ -31,7 +31,7 @@ const Education = () => {
               <div className={styles.card}>
                 <h4 className={styles.cardTitle}>Intermediate (12th)</h4>
                 <div className={styles.cardMeta}>
-                  <span className={styles.inst}>Blossom School</span>
+                  <span className={styles.inst}>Blossom Senior Secondary School</span>
                 </div>
                 <p className={styles.score}>Percentage: <span className={styles.highlight}>61%</span></p>
               </div>
@@ -39,7 +39,7 @@ const Education = () => {
               <div className={styles.card}>
                 <h4 className={styles.cardTitle}>Matriculation (10th)</h4>
                 <div className={styles.cardMeta}>
-                  <span className={styles.inst}>Blossom School</span>
+                  <span className={styles.inst}>Blossom Senior Secondary School</span>
                 </div>
                 <p className={styles.score}>Percentage: <span className={styles.highlight}>84%</span></p>
               </div>
